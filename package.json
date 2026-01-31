@@ -1,0 +1,30 @@
+{
+  "name": "assignment1-itp",
+  "version": "1.0.0",
+  "description": "\"# Assignment1-ITP\"",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenalsnr/Assignment1-ITP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenalsnr/Assignment1-ITP/issues"
+  },
+  "homepage": "https://github.com/shenalsnr/Assignment1-ITP#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright": "^1.58.0",
+    "playwright-core": "^1.58.0",
+    "undici-types": "^7.16.0"
+  }
+}
